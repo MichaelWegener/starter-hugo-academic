@@ -1,6 +1,6 @@
 ---
 title: Michael Wegener
-role: Professor in Economics
+role: Asst Professor in Economics
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
