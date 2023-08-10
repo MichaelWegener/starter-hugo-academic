@@ -1,6 +1,7 @@
 ---
 title: Michael Wegener
 role: Professor in Economics
+avatar_filename: https://gravatar.com/avatar/548c7b40a6e62089e979e6d14425e2c8?s=200
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
