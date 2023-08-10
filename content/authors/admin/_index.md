@@ -32,15 +32,12 @@ organizations:
     url: https://antalya.edu.tr/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: University of Bamberg
+      year: 2013
+    - course: Diploma in Economics (Dipl. Volkswirt)
+      institution: University of Bonn
+      year: 2007
 superuser: true
 status:
   icon: ☕️
