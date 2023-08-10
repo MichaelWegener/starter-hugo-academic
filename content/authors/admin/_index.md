@@ -14,10 +14,10 @@ social:
     link: /#contact
   - icon: mastodon
     icon_pack: fab
-    link: "@michaelwegener@me.dm"
+    link: https://me.dm/@michaelwegener/following
     label: Follow me on Mastodon
     display:
-      header: true
+      header: false
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=de&user=28lBrXAAAAAJ
@@ -27,6 +27,12 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-1076-4587
+    icon_pack: fab
+    icon: orcid
+    label: ""
 organizations:
   - name: Antalya Bilim University
     url: https://antalya.edu.tr/en
