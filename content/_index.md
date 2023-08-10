@@ -44,7 +44,7 @@ sections:
           company_url: ''
          # company_logo: org-gc
           location: Antalya, Türkiye
-          date_start: '2016-01-10'
+          date_start: '2016-10-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -215,12 +215,12 @@ sections:
      # phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
+        street: 
         city: Antalya
         region: Antalya
         postcode: '94305'
         country: Türkiye
-        country_code: US
+        country_code: TR
       directions: Enter Building A2 and take the stairs to Office 246 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
