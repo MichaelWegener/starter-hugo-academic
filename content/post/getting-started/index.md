@@ -31,3 +31,16 @@ $$
 \gamma*{n} = \frac{ \left | \left (\mathbf x*{n} - \mathbf x*{n-1} \right )^T \left [\nabla F (\mathbf x*{n}) - \nabla F (\mathbf x*{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}*{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}
 $$
 {{< /math >}}
+
+
+
+
+
+```html
+<div class='epigraph'>
+
+*"La via n'est de soy ny bien ny mal; c'est la place du bien et du mal, selon 
+que vous la leur faictes."* --- Montaigne.
+
+</div>
+```
