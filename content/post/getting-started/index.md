@@ -1,5 +1,5 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
+title: Of Average and Marginal Costs
 subtitle: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
   with everything in no time.
@@ -11,22 +11,21 @@ draft: false
 featured: false
 authors:
   - admin
-  - 吳恩達
 lastmod: 2020-12-13T00:00:00Z
 tags:
-  - Academic
-  - 开源
+  - costs
+  - microeconomics
 categories:
-  - Demo
-  - 教程
+  - costs
+  - microeconomics
 projects: []
 image:
   caption: "Image credit: [**gerald at
-    pixabay**]https://pixabay.com/illustrations/cost-board-finance-money-busine\
-    ss-1174926/)"
+    pixabay**](https://pixabay.com/illustrations/cost-board-finance-money-busin\
+    ess-1174926/)"
   focal_point: ""
   placement: 2
   preview_only: false
   filename: cost-1174926_1920-1-.jpg
 ---
-T﻿est
+> Anything that just costs money is cheap.
