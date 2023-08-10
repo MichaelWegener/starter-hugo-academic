@@ -35,7 +35,7 @@ education:
     - course: PhD in Economics
       institution: University of Bamberg
       year: 2013
-    - course: Diploma in Economics (Dipl. Volkswirt)
+    - course: MSc in Economics (Dipl. Volkswirt)
       institution: University of Bonn
       year: 2007
 superuser: true
