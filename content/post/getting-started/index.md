@@ -7,7 +7,7 @@ draft: false
 featured: false
 authors:
   - admin
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - costs
   - microeconomics
@@ -25,3 +25,9 @@ image:
   filename: cost-1174926_1920-1-.jpg
 ---
 > Anything that just costs money is cheap.
+
+{{< math >}}
+$$
+\gamma*{n} = \frac{ \left | \left (\mathbf x*{n} - \mathbf x*{n-1} \right )^T \left [\nabla F (\mathbf x*{n}) - \nabla F (\mathbf x*{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}*{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}
+$$
+{{< /math >}}
