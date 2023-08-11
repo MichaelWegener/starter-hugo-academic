@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "The good, the bad, the well-connected"
 authors:
 - admin
 - Evla Mutlu
@@ -7,7 +7,7 @@ author_notes:
 - "Antalya Bilim University"
 - "Antalya Bilim University"
 date: "2021-06-08"
-doi: ""
+doi: "10.1007/s00182-021-00765-1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -66,7 +66,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
