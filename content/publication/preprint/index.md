@@ -22,9 +22,10 @@ publication_types:
   - "3"
 authors:
   - admin
+  - Bushra Soummakie
 author_notes:
   - Antalya Bilim University
-  - ""
+  - Antalya Bilim University
 publication: ""
 summary: ""
 url_dataset: "#"
