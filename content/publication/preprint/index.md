@@ -15,8 +15,8 @@ abstract: In this paper we study the research efficiency of the Turkish higher
   statistics suggest that extra-large universities tend to be less research
   efficient than large universities (p<0.1), while both age and ownership status
   of the university do not have a statistically significant impact on an
-  institution’s efficiency score. Test
-slides: ""
+  institution’s efficiency score. 
+#slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "3"
@@ -26,20 +26,22 @@ authors:
 author_notes:
   - Antalya Bilim University
   - Antalya Bilim University
-publication: ""
-summary: ""
-url_dataset: "#"
-url_project: ""
-publication_short: ""
-url_source: "#"
-url_video: "#"
+#publication: ""
+#summary: ""
+#url_dataset: "#"
+#url_project: ""
+#publication_short: ""
+#url_source: "#"
+#url_video: "#"
 title: A Two-Stage Research Performance Assessment of Turkish Higher Education
   Institutions Using Data Envelopment Analysis and Beta Regression
 featured: false
 tags:
-  - Source Themes
-date: 2019-04-07T00:00:00Z
-url_slides: ""
+  - data envelopment analysis
+  - beta regression
+  - bootstrapping
+date: 2023-08-01
+#url_slides: ""
 links:
   - name: Custom Link
     url: http://example.org
@@ -49,8 +51,8 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
-url_poster: "#"
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-doi: ""
+#publishDate:
+#url_poster: "#"
+#url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+#doi: ""
 ---
