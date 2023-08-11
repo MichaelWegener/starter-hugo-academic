@@ -2,11 +2,11 @@
 title: "An example journal article"
 authors:
 - admin
-- Robert Ford
+- Evla Mutlu
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "Antalya Bilim University"
+- "Antalya Bilim University"
+date: "2021-06-08"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,34 +19,38 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*International Journal of Game Theory, 50*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper, we analyse a variation of truel competitions in which each prospective player is represented by a node in a scale-free network. Without including any particular spatial arrangement of players, traditional game theory suggests that in many truel settings the strongest player often has the lowest probability of survival, a paradox that has been popularised by the term survival of the unfittest. However, both our single-run and the Monte-Carlo simulations suggest that this particular notion does not hold in scale-free networks. The spatial structure and arrangement of players are crucial for the outcome of truels, as in scale-free networks the number of players surviving the competition positively depends on their marksmanship (i.e., the strongest players indeed have the highest probability of survival).
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt #magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- truels
+- network dynamics
+- scale-free networks
+- game theory
+- monte-carlo simulations
 featured: false
 
 # links:
-# - name: ""
+# - name: "Journal"
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: https://link.springer.com/article/10.1007/s00182-021-00765-1
+#url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Chris de Lima at Unsplash**]([https://unsplash.com/photos/jdD8gXaTZsc](https://unsplash.com/de/fotos/rxPRbECcnLs))'
   focal_point: ""
   preview_only: false
 
