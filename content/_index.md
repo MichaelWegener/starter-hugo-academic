@@ -42,7 +42,7 @@ sections:
         - title: Assistant Professor
           company: Antalya Bilim University
           company_url: 'https://antalya.edu.tr/en'
-          company_logo: org-x
+          company_logo: org-ab
           location: Antalya, Türkiye
           date_start: '2016-10-01'
           date_end: ''
@@ -52,14 +52,15 @@ sections:
               * Statistics I & II 
               * Econometrics I & II
               * Contract Theory
+              * Energy Economics
               
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+        - title: Postdoctoral Researcher 
+          company: University of Bamberg
+          company_url: 'https://www.uni-bamberg.de/'
+          company_logo: org-ub
+          location: Bamberg, Germany
+          date_start: '2013-10-01'
+          date_end: '2016-09-30'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
