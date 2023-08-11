@@ -15,7 +15,7 @@ abstract: In this paper we study the research efficiency of the Turkish higher
   statistics suggest that extra-large universities tend to be less research
   efficient than large universities (p<0.1), while both age and ownership status
   of the university do not have a statistically significant impact on an
-  institution’s efficiency score.
+  institution’s efficiency score. Test
 slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
