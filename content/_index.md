@@ -41,17 +41,18 @@ sections:
       items:
         - title: Assistant Professor
           company: Antalya Bilim University
-          company_url: ''
+          company_url: 'https://antalya.edu.tr/en'
          # company_logo: org-gc
           location: Antalya, Türkiye
           date_start: '2016-10-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              Courses taught include:
+              * Game Theory
+              * Statistics I & II 
+              * Econometrics I & II
+              * Contract Theory
+              
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
