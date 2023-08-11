@@ -42,7 +42,7 @@ sections:
         - title: Assistant Professor
           company: Antalya Bilim University
           company_url: 'https://antalya.edu.tr/en'
-          company_logo: org-ab
+          company_logo: org-x
           location: Antalya, Türkiye
           date_start: '2016-10-01'
           date_end: ''
