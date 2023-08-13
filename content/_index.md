@@ -184,7 +184,7 @@ sections:
         postcode: '94305'
         country: Türkiye
         country_code: TR
-      directions: Enter Building A2 and take the stairs to Office 246 on Floor 2
+      directions: Enter building A2 and take the stairs to office A2/246 on the second floor
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
