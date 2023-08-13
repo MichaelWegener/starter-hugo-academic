@@ -172,7 +172,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+       If you want to get in touch with me, do not hesitate to drop me a line using one of the means below. I look forward to hearing from you.
       # Contact (add or remove contact options as necessary)
       email: michael.r.wegener@googlemail.com
      # phone: 888 888 88 88
