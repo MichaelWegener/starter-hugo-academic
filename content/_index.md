@@ -42,7 +42,7 @@ sections:
         - title: Assistant Professor
           company: Antalya Bilim University
           company_url: 'https://antalya.edu.tr/en'
-          company_logo: org-ab
+          company_logo:
           location: Antalya, Türkiye
           date_start: '2016-10-01'
           date_end: ''
@@ -57,7 +57,7 @@ sections:
         - title: Postdoctoral Researcher 
           company: University of Bamberg
           company_url: 'https://www.uni-bamberg.de/'
-          company_logo: org-ub
+          company_logo:
           location: Bamberg, Germany
           date_start: '2013-10-01'
           date_end: '2016-09-30'
