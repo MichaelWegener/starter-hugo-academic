@@ -33,12 +33,6 @@ social:
     icon_pack: fab
     icon: orcid
     label: ""
-  - display:
-      header: false
-    icon_pack: fab
-    icon: researchgate
-    label: Researchgate
-    link: https://www.researchgate.net/profile/Michael-Wegener-4
 organizations:
   - name: Antalya Bilim University
     url: https://antalya.edu.tr/en
