@@ -177,7 +177,7 @@ sections:
       email: michael.r.wegener@googlemail.com
      # phone: 888 888 88 88
       appointment_url: 'https://calendly.com/michael-r-wegener'
-      address: Antalya Bilim University
+      address: 
         street: Akdeniz Blv. No:290/A
         city: Çıplaklı Mahallesi, Döşemealtı
         region: Antalya
