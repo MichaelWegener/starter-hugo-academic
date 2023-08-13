@@ -6,7 +6,9 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Nonlinear Dynamics
-  - Computational
+  - Computational Economics
+  - Evolutionary Game Theory
+  - Behavioral Economics
 social:
   - icon: envelope
     icon_pack: fas
@@ -46,8 +48,8 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Wegener
 highlight_name: true
-first_name: Alice
+first_name: Michael
 email: michael.r.wegener@googlemail.com
 ---
