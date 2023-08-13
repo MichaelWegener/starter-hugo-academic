@@ -179,7 +179,7 @@ sections:
       appointment_url: 'https://calendly.com/michael-r-wegener'
       address: 
         street: Akdeniz Blv. No:290/A
-        city: Çıplaklı Mahallesi, Döşemealtı
+        city: Döşemealtı
         region: Antalya
         postcode: '07190'
         country: Türkiye
