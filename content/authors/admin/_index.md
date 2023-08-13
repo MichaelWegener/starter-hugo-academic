@@ -2,8 +2,7 @@
 title: Michael Wegener
 role: Asst Professor in Economics
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include nonlinear dynamics, computational economics, evolutionary game theory
 interests:
   - Nonlinear Dynamics
   - Computational Economics
