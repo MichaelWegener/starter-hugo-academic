@@ -17,7 +17,7 @@ abstract: In this paper we study the research efficiency of the Turkish higher
   of the university do not have a statistically significant impact on an
   institution’s efficiency score. 
 #slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 
 publication_types:
   - "3"
 authors:
@@ -43,7 +43,7 @@ tags:
 date: 2023-08-01
 #url_slides: ""
 links:
-  - name: Custom Link
+  - name: Custom Link 
     url: http://example.org
 projects:
   - internal-project
