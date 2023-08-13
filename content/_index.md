@@ -177,11 +177,11 @@ sections:
       email: michael.r.wegener@googlemail.com
      # phone: 888 888 88 88
       appointment_url: 'https://calendly.com/michael-r-wegener'
-      address:
-        street: 
-        city: Antalya
+      address: Antalya Bilim University
+        street: Akdeniz Blv. No:290/A
+        city: Çıplaklı Mahallesi, Döşemealtı
         region: Antalya
-        postcode: '94305'
+        postcode: '07190'
         country: Türkiye
         country_code: TR
       directions: Enter building A2 and take the stairs to office A2/246 on the second floor
