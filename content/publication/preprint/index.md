@@ -45,8 +45,8 @@ date: 2023-08-01
 links:
   - name: Custom Link 
     url: http://example.org
-projects:
-  - internal-project
+#projects:
+ # - internal-project
 image:
   caption: ""
   focal_point: ""
