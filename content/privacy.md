@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-date: '2018-06-28T00:00:00+01:00'
+date: '2023-08-16
 draft: false
 share: false
 commentable: false
@@ -11,8 +11,6 @@ header:
   caption: ''
   image: ''
 ---
-
-# Privacy Policy
 
 Last updated: August 16, 2023
 
