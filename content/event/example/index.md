@@ -32,10 +32,10 @@ url_video: ""
 url_slides: ""
 address:
   street: 
-  city: Antalya
-  region:
+  city: Konyaaltı/Antalya
+  region: Türkiye
   postcode:
-  country: Türkiye
+  country:‚
 links:
   - icon: twitter
     icon_pack: fab
