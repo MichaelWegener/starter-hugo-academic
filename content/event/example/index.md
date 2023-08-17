@@ -31,7 +31,7 @@ authors: [admin, Bushra Soummakie]
 url_video: ""
 url_slides: ""
 address:
-  street: Liman Mah. No: 4A/4B
+  street: Liman Mah. No 4A/4B
   city: Konyaaltı/Antalya
   region: Türkiye
   postcode:
