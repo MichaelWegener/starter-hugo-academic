@@ -30,10 +30,10 @@ image:
 This is my first blog post ever, so the aim is just to play around and get familiar with this piece of software in general and the type-setting environment for mathematical formulas and equations in particular. As a first topic, I wanted to write a bit about a fundamental concept from microeconomics: the relationship between average and marginal costs. When do marginal costs exceed average costs? When do average costs exceed marginal costs? And where do average costs have their minimum?
 As we will see, average costs are always minimised when they equal marginal costs. But here comes the proof...
 
-Let us start with a general cost function {{< math >}}$C(q)${{< math >}}, in which costs depend on the quantity produced {{< math >}}$q${{< math >}}. Obviously, if we divide by {{< math >}}$q${{< math >}} we get average costs, i.e.
-{{< math >}}
+Let us start with a general cost function {{<math>}}$C(q)${{<math>}}, in which costs depend on the quantity produced {{<math>}}$q${{<math>}}. Obviously, if we divide by {{< math >}}$q${{< math>}} we get average costs, i.e.
+{{<math>}}
 $$
 AC=\frac{C}{q}.
 $$
-{{< math >}}
+{{<math>}}
 
