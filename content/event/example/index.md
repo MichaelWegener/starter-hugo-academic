@@ -1,15 +1,15 @@
-r---
-title: Example Talk
+---
+title:  16th International Congress of Social Sciences with Current Research
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
   urna, suscipit quis sapien eu, pulvinar tempor diam.
 location: Wowchemy HQ
-date: 2030-06-01T13:00:00Z
-all_day: false
-event: Wowchemy Conference
+date: 2022-10-29
+all_day: true
+event:  16th International Congress of Social Sciences with Current Research
 slides: example
-draft: true
+draft: false
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 date_end: 2030-06-01T15:00:00Z
