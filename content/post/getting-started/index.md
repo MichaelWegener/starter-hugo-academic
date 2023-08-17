@@ -59,5 +59,5 @@ $$
 
 Since quantities $q$ can only take on positive values, it becomes obvious from the last line that
 $$
-\frac{\partial AC}{\partial q}>0  \text{if }MC>AC
+\frac{\partial AC}{\partial q}>0 \quad \text{if }MC>AC
 $$
