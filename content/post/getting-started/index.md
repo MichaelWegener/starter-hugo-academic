@@ -40,3 +40,13 @@ MC=\frac{\partial C}{\partial q}.
 $$
 But for which quantity produced are average costs decreasing? For which quantities are average costs increasing? Or put differently, for which quantity $q$ are average costs actually minimised? The answer is quite simple and straightforward: average costs are increasing if the first-order derivative for a particular quantity $q$ is positive and they are decreasing if the first-order derivative is negative. Needless to say, that the necessary condition for average costs to be minimised is given by the first-order derivative to equal zero.
 
+So before we start, let us have a quick repetition on the quotient rule for taking derivatives, which states that if we have a nested function
+$$
+f(x)=\frac{g(x)}{h(x)}
+$$
+the derivative of $f(x)$ will be given as
+$$
+\frac{\partial f}{\partial x}=\frac{\frac{\partial h(x)}{\partial x}g(x)-\frac{\partial g(x)}{\partial x}h(x)}{g(x)^2}
+$$
+Accordingly, we can rewrite and decompose the first-order derivative of average costs as follows
+
