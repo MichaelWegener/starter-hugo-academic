@@ -1,5 +1,5 @@
 ---
-title: A Two-Stage Research Performance Assessment of Turkish Higher Educatoon Institutions Using Data Eneveopment Analysis and Beta Regression
+title: A Two-Stage Research Performance Assessment of Turkish Higher Education Institutions Using Data Eneveopment Analysis and Beta Regression
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
@@ -13,7 +13,7 @@ draft: false
 url_pdf: ""
 summary:
 date_end: 2022-11-01
-event_url: https://example.org](https://16sosbilkon.meetinghand.net/en/
+event_url: https://16sosbilkon.meetinghand.net/en/
 featured: false
 authors: [admin, Bushra Soummakie]
 url_video: ""
