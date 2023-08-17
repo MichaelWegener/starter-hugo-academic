@@ -1,5 +1,5 @@
 ---
-title:  16th International Congress of Social Sciences with Current Research
+title: A Two-Stage Research Performance Assessment of Turkish Higher Educatoon Institutions Using Data Eneveopment Analysis and Beta Regression
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
