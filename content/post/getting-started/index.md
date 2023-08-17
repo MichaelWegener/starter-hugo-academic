@@ -49,6 +49,7 @@ $$
 \frac{\partial f}{\partial x}=\frac{\frac{\partial h(x)}{\partial x}g(x)-\frac{\partial g(x)}{\partial x}h(x)}{g(x)^2}
 $$
 Accordingly, we can rewrite and decompose the first-order derivative of average costs as follows
+<p>
 $$
 \begin{split}
 \frac{\partial AC}{\partial q}&=\frac{\partial \frac{C(q)}{q}}{\partial q}=\frac{\frac{\partial C}{\partial q}q-C}{q^2}\\
@@ -56,7 +57,7 @@ $$
 &=\frac{1}{q}(MC-AC).
 \end{split}
 $$
-
+</p>
 Since quantities $q$ can only take on positive values, it becomes obvious from the last line that
 $$
 \frac{\partial AC}{\partial q}>0 \quad \text{if }MC>AC
