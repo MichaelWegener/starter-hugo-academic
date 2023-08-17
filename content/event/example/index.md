@@ -1,7 +1,9 @@
 ---
-title: "A Two-Stage Research Performance Assessment of Turkish Higher Education Institutions
-Using Data Envelopment Analysis and Beta Regression"
-abstract: Lorem Ipsum
+title:  16th International Congress of Social Sciences with Current Research
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
+  urna, suscipit quis sapien eu, pulvinar tempor diam.
 location: Porto Bello Hotel Resort & Spa
 date: 2022-10-28
 all_day: true
