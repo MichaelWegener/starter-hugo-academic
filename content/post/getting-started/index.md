@@ -31,6 +31,7 @@ This is my first blog post ever, so the aim is just to play around and get famil
 As we will see, average costs are always minimised when they equal marginal costs. But here comes the proof...
 {{< math >}}
 
-$$ f(k;p_{0}^{}) = \begin{cases}p_{0}^{} & \text{if }k=1, \ 1-p_{0}^{*} & \text{if }k=0.\end{cases} $$
+$$ \begin{split}f(k;p_{0}^{}) &= p_{0}^{}\\
+&=p_{1}\end{split}$$
 
 {{< /math >}}
