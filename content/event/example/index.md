@@ -14,7 +14,7 @@ with an average score of 0.878. We find 25 of the 50 universities in our sample 
 efficient, with the maximum score of 1. Beta regression summary statistics suggest that extralarge universities tend to be less research efficient than large universities as the corresponding coefficient is statistically significant at the 10% confidence level. In turn, no statistically significant dependence on the research efficiency score is detected for ownership
 status and age of the institution. Bootstrapped hypothesis testing further corroborates the
 latter result.
-location: Porto Bello Hotel Resort & Spa, Antalya
+location: Porto Bello Hotel Resort & Spa
 date: 2022-10-28
 all_day: true
 event:  16th International Congress of Social Sciences with Current Research
@@ -29,11 +29,11 @@ authors: [admin, Bushra Soummakie]
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  street: 
+  city: Antalya
+  region:
+  postcode:
+  country: Türkiye
 links:
   - icon: twitter
     icon_pack: fab
