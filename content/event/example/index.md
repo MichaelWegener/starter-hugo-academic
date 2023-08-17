@@ -35,7 +35,7 @@ address:
   city: Antalya
   region: Türkiye
   postcode:
-  country:‚
+  country:
 links:
   - icon: twitter
     icon_pack: fab
