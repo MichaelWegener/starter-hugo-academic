@@ -32,7 +32,7 @@ url_video: ""
 url_slides: ""
 address:
   street: 
-  city: Konyaaltı/Antalya
+  city: Antalya
   region: Türkiye
   postcode:
   country:‚
