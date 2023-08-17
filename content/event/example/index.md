@@ -1,4 +1,4 @@
----
+r---
 title: Example Talk
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
@@ -34,7 +34,7 @@ tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: ""
   focal_point: Right
 url_code: ""
 ---
