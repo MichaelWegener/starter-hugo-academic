@@ -1,7 +1,7 @@
 ---
-title: A Two-Stage Research Performance Assessment of Turkish Higher Education Institutions Using Data Envelopment Analysis and Beta Regression
+title: A Two-Stage Research Performance Assessment of Turkish Higher Education Institutions Using Data Envelopment Analysis and   Beta Regression
 abstract: In this paper, we study the research efficiency of the Turkish higher education sector in a
-two stage data envelopment analysis model with variable returns to scale. Using a sample of
+  two stage data envelopment analysis model with variable returns to scale. Using a sample of
 
 location: Porto Bello Hotel Resort & Spa
 date: 2022-10-28
