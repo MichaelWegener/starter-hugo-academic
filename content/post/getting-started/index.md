@@ -34,4 +34,9 @@ Let us start with a general cost function $C(q)$, in which costs depend on the q
 $$
 AC=\frac{C}{q}.
 $$
+Likewise, if we take the first-order derivative, we get marginal costs or
+$$
+MC=\frac{\partial C}{\partial q}.
+$$
+But for which quantity produced are average costs decreasing? For which quantities are average costs increasing? Or put differently, for which quantity $q$ are average costs actually minimised? The answer is quite simple and straightforward: average costs are increasing if the first-order derivative for a particular quantity $q$ is positive and they are decreasing if the first-order derivative is negative. Needless to say, that the necessary condition for average costs to be minimised is given by the first-order derivative to equal zero.
 
