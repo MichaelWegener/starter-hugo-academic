@@ -58,5 +58,6 @@ $$
 $$
 
 Since quantities $q$ can only take on positive values, it becomes obvious from the last line that
-$$\frac{\partial AC}{\partial q}>0 & \text{if }MC>AC$$ and that $$\frac{\partial AC}{\partial q}<0 & \text{if }MC<AC$$. In other words, average costs are increasing if marginal costs exceed average costs and average costs are decreasing if average costs exceed marginal costs. Moreover, if marginal costs equal average costs, average costs are at their minimum.
-
+$$
+\frac{\partial AC}{\partial q}>0  \text{if }MC>AC
+$$
